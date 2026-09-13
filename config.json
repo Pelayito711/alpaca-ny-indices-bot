@@ -6,7 +6,7 @@
       "risk_per_trade_pct": 2.0
     },
     "SPY": {
-      "enabled": false,
+      "enabled": true,
       "r_factor": 2.0,
       "risk_per_trade_pct": 1.0
     }
